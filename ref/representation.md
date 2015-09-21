@@ -6,4 +6,7 @@ Pixel: Smallest addressable point in a display device. Pixel is assigned an inte
 Similar to spatial discretisation, Intensity discretisation is also needed as intensity is continous in nature but we cannot represent all the intensities in display device.
 
 Initially Only black and white just two levels of intensity then it is increased in multiples of two now a days 0-255 levels are used to represent intensity
-Similarly for a color Image Red, Green and Blue are seen as three different aspects
+
+Similarly for a color Image Red, Green and Blue are seen as three independent intensity levels. (R, G, B) each ranging from 0-255 these are independent as R, G, B are suffiecient to span all colors
+
+
