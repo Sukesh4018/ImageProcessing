@@ -9,4 +9,4 @@ Initially Only black and white just two levels of intensity then it is increased
 
 Similarly for a color Image Red, Green and Blue are seen as three independent intensity levels. (R, G, B) each ranging from 0-255 these are independent as R, G, B are suffiecient to span all colors
 
-
+M*N size means image is made up of M rows and N columns of pixels with pixel being the least sized unit to which intensity can be assigned.
